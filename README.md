@@ -13,7 +13,7 @@ When all prompts are answered, then a password is generated that matches the sel
 When the password is generated, then the password is either displayed in an alert or written to the page.
 
 ## The Project
-This project allows the coder to play around with Javascript in order to prompt the user to input information ((((where the data is being collected. - idk what im saying here))))
+This project allows the coder to play around with Javascript in order to prompt the user to input information that can be applied to a password they are generating. The user must choose between uppercase letters, lowercase letters, special characters and numbers. They cannot generate a password without meeting at least one condition! 
 
 ## The Final Product:
 First prompt of the website
@@ -28,3 +28,4 @@ Further photos of the website are found in assets > images.
 
 
 ## Link to the Password Generator: 
+https://angelikaamorxo.github.io/pwd-generator/
