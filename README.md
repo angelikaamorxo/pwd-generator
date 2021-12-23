@@ -16,7 +16,15 @@ When the password is generated, then the password is either displayed in an aler
 This project allows the coder to play around with Javascript in order to prompt the user to input information ((((where the data is being collected. - idk what im saying here))))
 
 ## The Final Product:
+First prompt of the website
+![website1](https://user-images.githubusercontent.com/94064933/147238101-cda97747-7019-4af0-88ab-1bb4b6a29c9c.PNG)
 
+Generated password
+![website6](https://user-images.githubusercontent.com/94064933/147238178-3739d67c-9131-4605-bc63-461bf8c8979c.PNG)
+
+Further photos of the website are found in assets > images. 
 ## Written code: 
+![javascriptcode](https://user-images.githubusercontent.com/94064933/147237705-b9c6afc6-88cd-4842-a4d3-1ca0f1c03c37.PNG)
+
 
 ## Link to the Password Generator: 
