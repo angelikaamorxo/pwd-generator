@@ -59,7 +59,8 @@ function generatePassword() {
             chosenChar = numChar.concat(chosenChar);
           }
         }
-      } 
+        // Ends the loop
+      } while (chosenChar < 1);
   
       // Finalises the password length and characters
       while (finalPwd.length < pwdLength) {
