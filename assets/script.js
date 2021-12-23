@@ -48,7 +48,7 @@ function generatePassword() {
           }
 
           // Asks the user to confirm special characters
-          let YspecialChar = window.confirm("Would you like special characters?");
+          let YspecialChar = window.confirm("Would you like to add special characters?");
           if (YspecialChar) {
             chosenChar = specialChar.concat(chosenChar);
           }
@@ -58,7 +58,13 @@ function generatePassword() {
           if (YnumChar) {
             chosenChar = numChar.concat(chosenChar);
           }
+
+          // Asks the user to choose at least 1 special character 
+          if (chosenChar.length < 1) {
+            window.alert("Please select at least 1 type of condition");
+          }
         }
+
         // Ends the loop
       } while (chosenChar < 1);
   
